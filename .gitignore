@@ -1,0 +1,9 @@
+.git/
+.plastic/
+.vs/
+Temp/
+ignore.conf
+obj/
+Library/
+Logs/
+*.csproj
